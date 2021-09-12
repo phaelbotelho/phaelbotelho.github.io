@@ -15,4 +15,5 @@ This GitHub Page provides some of my projects.
 You can follow me on:
 - [Instagram](https://www.instagram.com/phaelbotelho/)
 - [Instructables](https://www.instructables.com/member/phaelbotelho/)
-- Also on my neglected [Thingiverse](https://www.thingiverse.com/phaelbotelho/designs)
+- [Thingiverse](https://www.thingiverse.com/phaelbotelho/designs)
+- [Libstock](https://libstock.mikroe.com/users/view/17845)
